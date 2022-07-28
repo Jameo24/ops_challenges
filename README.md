@@ -1,2 +1,3 @@
-# ops_challenges
-This is a collection of challenges from CodeFellows
+# Table of Contents
+
+- [Ops Challenge 02](challenge-02.sh)
