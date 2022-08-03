@@ -9,3 +9,5 @@
 -[Ops Challenge 06](challenge-06.sh)
 
 -[Ops Challenge 07](challenge-07.sh)
+
+-[Ops Challenge 08](challenge-08.sh)
