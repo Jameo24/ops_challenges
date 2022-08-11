@@ -19,3 +19,5 @@
 -[Ops challenge 11](challenge-11.sh)
 
 -[Ops challenge 12](challenge-12.sh)
+
+-[Ops challenge 13](challenge-13.sh)

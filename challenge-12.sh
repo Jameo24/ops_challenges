@@ -6,7 +6,6 @@
 
 
 # Main
-#!/bin/bash
 new-item network_report2.txt
 ipconfig /all | out-file network_report2.txt
 
